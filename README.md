@@ -1,6 +1,6 @@
 # calculator-project
 A project on functionalities of a calculator
-https://alex-muliande.github.io/calculator-project/**mylink**
+https://alex-muliande.github.io/calculator-project/ **mylink**
 
 ## Setup
 >The program is made up of HTML and CSS which makes it easy to be lauched in any browser.
